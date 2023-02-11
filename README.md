@@ -1,8 +1,9 @@
 ## Olá, eu me chamo Tales👋
 Seja bem vindo ao meu Git⚡
 
-- 🔭 Hoje trabalho com Back-end
-- 🌱 Estudando JSF e JPA
+- 📒 Estudando JSF e JPA
+- 🖥️ Hoje trabalho com Back-end
+- 🧑‍🎓 Bacharel em Ciência da Computação
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TallesCostta&theme=gotham&hide=contribs,prs&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TallesCostta&langs_count=8&layout=compact&theme=gotham)
@@ -16,5 +17,10 @@ Seja bem vindo ao meu Git⚡
   <img align="center" alt="Tales-Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 </div>
 
+## Links Uteis...
 
-<i class="devicon-mysql-plain"></i>
+<div> 
+  <a href = "mailto:tallescosttapaiva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+ 
