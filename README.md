@@ -2,7 +2,7 @@
 Seja bem vindo ao meu Git⚡
 
 - 📒 Estudando JSF e JPA
-- 🖥️ Hoje trabalho com Back-end
+- 🖥️ Hoje trabalho como desenvolvedor Back-end
 - 🧑‍🎓 Bacharel em Ciência da Computação
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TallesCostta&theme=gotham&hide=contribs,prs&count_private=true&show_icons=true)
