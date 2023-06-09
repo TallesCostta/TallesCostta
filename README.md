@@ -1,7 +1,7 @@
 ## Olá, eu me chamo Tales👋
 Seja bem vindo ao meu Git⚡
 
-- 📒 Estudando JSF e JPA
+- 📒 Estudando Rest e Spring Boot
 - 🖥️ Hoje trabalho como desenvolvedor Back-end
 - 🧑‍🎓 Bacharel em Ciência da Computação
 
