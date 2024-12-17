@@ -1,7 +1,7 @@
 ## Olá, eu me chamo Tales👋
 Seja bem vindo ao meu Git⚡
 
-- 📒 Estudando React | Redux e Typescript
+- 📒 Estudando React, redux e typescript
 - 🖥️ Hoje trabalho como desenvolvedor full-stack junior
 - 🧑‍🎓 Bacharel em Ciência da Computação
 
