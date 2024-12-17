@@ -1,8 +1,8 @@
 ## Olá, eu me chamo Tales👋
 Seja bem vindo ao meu Git⚡
 
-- 📒 Estudando Rest e Spring Boot
-- 🖥️ Hoje trabalho como desenvolvedor Back-end
+- 📒 Estudando React | Redux e Typescript
+- 🖥️ Hoje trabalho como desenvolvedor full-stack junior
 - 🧑‍🎓 Bacharel em Ciência da Computação
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TallesCostta&theme=gotham&hide=contribs,prs&count_private=true&show_icons=true)
