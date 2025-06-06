@@ -7,7 +7,7 @@ Seja muito bem-vindo ao meu GitHub! Aqui você vai encontrar projetos, estudos e
 ---
 
 🎓 **Bacharel em Ciência da Computação**<br>
-🖥️ **Desenvolvedor Full-Stack Junior**<br>
+🖥️ **Analista de Sistemas I** na [Companhia de Água e Esgoto do Estado do Ceará](https://www.cagece.com.br/)<br>
 📚 **Atualmente estudando:** React, Redux e TypeScript<br>
 
 ---
